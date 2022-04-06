@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "title": "Marketing",
+        "link": "/services-inside",
+        "imgSrc": "assets/img/placeholder/marketing.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Design",
+        "link": "/services-inside",
+        "imgSrc": "assets/img/placeholder/design.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Web Development",
+        "link": "/services-inside",
+        "imgSrc": "assets/img/placeholder/web-development.jpg"
+    },
+    {
+        "id": "4",
+        "title": "App Development",
+        "link": "/services-inside",
+        "imgSrc": "assets/img/placeholder/app-development.jpg"
+    }
+]
