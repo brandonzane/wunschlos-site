@@ -40,7 +40,6 @@ const Contacts = () => {
                     <div className="wrapper">
                         <div className="content">
                             <div className="clearfix">
-                                <GoogleMaps />
 
                                 <div className="spacer p-top-xl">
                                     <div className="title">
@@ -59,6 +58,8 @@ const Contacts = () => {
                                         </div>
                                     </div>
                                 </div>
+                                <br />
+                                <GoogleMaps />
                             </div>
                         </div>
                     </div>
